@@ -1,4 +1,4 @@
-<h3> 👋 hello I'm curiositay 👋  <h3>
+<h2> 👋 hello I'm curiositay 👋  <h2>
 
 <h4> Iv'e worked on a couple things like making websites and making bots. Perferred language to code it is Python. Thats all I'll add more when I do more bye.<h4>
 
